@@ -27,4 +27,4 @@ REFERENCES
 
 1. 160 GHZ LNA-https://github.com/IHP-GmbH/TO_Apr2025/tree/main/160GHz_LNA
 
-2. 
+2. rc3_cmc.osdi-https://github.com/dwarning/VA-Models/releases/tag/v2.2
